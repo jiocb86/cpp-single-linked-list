@@ -9,7 +9,7 @@
 
 template <typename Type>
 class SingleLinkedList {
-	// напишите код класса тут
+    // напишите код класса тут
     // Узел списка
     struct Node {
         Node() = default;
